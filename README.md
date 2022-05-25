@@ -1,6 +1,9 @@
-### Val Evander M. Wong
+## Val Evander M. Wong
+### Frisco, TX
+### Software Engineer 
 
 Currently working on:
+- small React & Springboot projects
 
 Currently learning:
 - Spring framework
