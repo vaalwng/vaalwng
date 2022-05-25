@@ -1,4 +1,13 @@
-### Hi there 👋
+### Val Evander M. Wong
+
+Currently working on:
+
+Currently learning:
+- Spring framework
+- React framework
+- MERN stack development
+
+Reach me at **valw72@gmail.com**
 
 <!--
 **zZestyy/zZestyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
