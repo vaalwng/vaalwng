@@ -1,14 +1,12 @@
 ## Val Evander M. Wong
-### Frisco, TX
-### Software Engineer 
+### University of Texas at Dallas | Software Engineering Magna Cum Laude
+### Software Engineer @ NETSCOUT Allen
 
-Currently working on:
-- small React & Springboot projects
+Currently learning/working on:
+- React
+- Spring Framework (Springboot)
+- MERN stack application development
 
-Currently learning:
-- Spring framework
-- React framework
-- MERN stack development
 
 Reach me at **valw72@gmail.com**
 
