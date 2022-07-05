@@ -6,6 +6,7 @@ Currently learning/working on:
 - React
 - Spring Framework (Springboot)
 - MERN stack application development
+- Machine Learning
 
 
 Reach me at **valw72@gmail.com**
