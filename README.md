@@ -3,10 +3,10 @@
 ### Software Engineer @ NETSCOUT Allen
 
 Currently learning/working on:
-- React
+- React, Node
 - Spring Framework (Springboot)
-- MERN stack application development
-- Machine Learning
+- Machine Learning, Python development
+- MERN application development
 
 
 Reach me at **valw72@gmail.com**
