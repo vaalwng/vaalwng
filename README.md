@@ -1,14 +1,14 @@
 ## Val Evander M. Wong
 ### University of Texas at Dallas | Software Engineering Magna Cum Laude
-### Software Engineer @ NETSCOUT Allen
+### Software Engineer @ NETSCOUT
 
-Currently learning/working on:
+Currently learning & working on:
 - React, Node
 - Spring Framework (Springboot)
 - Machine Learning, Python development
 - MERN application development
 
-
+Connect with me on LinkedIn: https://www.linkedin.com/in/valevander-wong/
 Reach me at **valw72@gmail.com**
 
 <!--
