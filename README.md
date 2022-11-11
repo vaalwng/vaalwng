@@ -8,7 +8,7 @@ Currently learning & working on:
 - Machine Learning, Python development
 - MERN application development
 
-Connect with me on LinkedIn: https://www.linkedin.com/in/valevander-wong/
+Connect with me on LinkedIn: https://www.linkedin.com/in/valevander-wong/ \n
 Reach me at **valw72@gmail.com**
 
 <!--
