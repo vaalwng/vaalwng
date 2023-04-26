@@ -2,10 +2,15 @@
 ### University of Texas at Dallas | Software Engineering Magna Cum Laude
 ### Software Engineer @ NETSCOUT
 
-Currently learning & working on:
-- React, Node
-- Spring Framework (Springboot)
-- Machine Learning, Python development
+Skills:
+- C/C++, JAVA, C#, Python, JavaScript, HTML&CSS, R
+- Linux, MacOS, Windows
+- Spring Boot, .NET
+
+Learning/Honing:
+- React, NodeJS
+- Machine Learning (Python development)
+- Docker
 - MERN application development
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/valevander-wong/
