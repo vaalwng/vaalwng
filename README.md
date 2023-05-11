@@ -15,7 +15,7 @@ Learning/Honing:
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/valevander-wong/
 
-Reach me at **valw72@gmail.com**
+Reach me at **valevander.wong@gmail.com**
 
 <!--
 **zZestyy/zZestyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
