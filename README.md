@@ -2,11 +2,13 @@
 ### University of Texas at Dallas | Software Engineering Magna Cum Laude
 ### Software Engineer @ NETSCOUT
 
-####Languages
+**Languages**
 - C/C++, JAVA, C#, Python, JavaScript, HTML&CSS, R
-####OS/Environments
+
+**OS/Environments**
 - Linux, MacOS, Windows
-####Frameworks/etc.
+
+**Frameworks/etc.**
 - Spring Boot, .NET
 
 Learning/Honing:
