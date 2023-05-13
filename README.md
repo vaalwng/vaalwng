@@ -1,7 +1,7 @@
 ## Val Evander M. Wong
-### University of Texas at Dallas | Software Engineering Magna Cum Laude
+### University of Texas at Dallas | B.S. Software Engineering | Magna Cum Laude
 ### Software Engineer @ NETSCOUT
-
+------------------------
 **Languages**
 - C/C++, JAVA, C#, Python, JavaScript, HTML&CSS, R
 
@@ -10,8 +10,8 @@
 
 **Frameworks/etc.**
 - Spring Boot, .NET
-
-Learning/Honing:
+------------------------
+**Learning/Honing:**
 - React, NodeJS
 - Machine Learning (Python development)
 - Docker
@@ -19,7 +19,7 @@ Learning/Honing:
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/valevander-wong/
 
-Reach me at **valevander.wong@gmail.com**
+Reach me at **valw72@gmail.com**
 
 <!--
 **zZestyy/zZestyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
