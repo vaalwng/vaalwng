@@ -9,7 +9,8 @@
 - Linux, MacOS, Windows
 
 **Frameworks/etc.**
-- Spring Boot, .NET
+- Spring Boot
+- .NET
 ------------------------
 **Learning/Honing:**
 - React, NodeJS
