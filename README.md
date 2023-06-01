@@ -9,12 +9,14 @@
 - Linux, MacOS, Windows
 
 **Frameworks/etc.**
-- Spring Boot
+- Springboot
+- React
 - .NET
 ------------------------
 **Learning/Honing:**
 - React, NodeJS
-- Machine Learning (Python development)
+- Python development
+- Machine Learning
 - Docker
 - MERN application development
 
