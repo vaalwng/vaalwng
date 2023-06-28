@@ -3,7 +3,7 @@
 ### Software Engineer @ NETSCOUT
 ------------------------
 **Languages**
-- C/C++, JAVA, C#, Python, JavaScript, HTML&CSS, R
+- JAVA, Python, C#, C/C++, JavaScript, HTML&CSS, R
 
 **OS/Environments**
 - Linux, MacOS, Windows
